@@ -27,8 +27,11 @@ body {
     color: rgba(126, 217, 86, 1);
 }
 /*Estilo do topo*/
-#topo {
-
+.topo {
+    height: 600px;
+    background-image: url(../Imagem/sport-kit-for-healthy-slimming.jpg);
+    background-size: cover;
+    background-position: top center;
 }
 /*texto*/
 
@@ -64,24 +67,39 @@ section div {
     background-color: rgba(255, 255, 255, 1);
     height: 800px;
     text-align: center;
+    background-image: url(../Imagem/pilares.jpg);
+    background-repeat: no-repeat;
+    background-size: 950px;
+    background-position: bottom center;
 }
 #fisico {
     background-color: rgba(255, 255, 255, 1);
     height: 300px;
     text-align: center;
+    background-image: url(../Imagem/fisicos.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100px;
 }
 
 #composicao {
     background-color: rgba(255, 255, 255, 1);
     height: 300px;
     text-align: center;
- 
+    background-image: url(../Imagem/maça.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100px;
 }
 
 #saudavel {
     background-color: rgba(255, 255, 255, 1);
     height: 300px;
     text-align: center;
+    background-image: url(../Imagem/cardapio\ saudável.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 150px;
    
 }
 /*Exercícios físicos*/
